@@ -57,7 +57,7 @@ console.log(arr1)   //here all items ARE removed
 //assigning an empty array  to the original array
 arr1=[]
 console.log(arr1.length)  //here length is 0
-console.log('array length is:${arr1.length}')
+console.log('array length is:+arr1.length')
 console.log(arr1)  //here empty array will be printed
 // //normal waY OF Declaring array
 // var car1="audi"
