@@ -59,4 +59,23 @@ arr1=[]
 console.log(arr1.length)  //here length is 0
 console.log('array length is:${arr1.length}')
 console.log(arr1)  //here empty array will be printed
+// //normal waY OF Declaring array
+// var car1="audi"
+// var car2="bmw"
+// var car3="hyundai"
+// console.log(car1,car2,car3)
 
+// //array way of declaring array
+// var cars=["audi","bmw","hyundai"]
+// console.log(cars[0],cars[1],cars[2])
+
+// //giving empty array to the variable and then assigning values to it
+// //by using index values
+// var cars=[]
+// cars[0]="audi",
+// cars[1]="bmw",
+// cars[2]="hyundai";
+// console.log(cars[0],cars[1],cars[2])
+// //creatsan array by using new keyword
+// var cars=new Array("audi","bmw","hyundai")
+// console.log(cars)
