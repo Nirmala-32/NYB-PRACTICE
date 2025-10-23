@@ -33,6 +33,6 @@ console.log(cars.toString())  //here array is converted to string
 
 //access the full array
 var cars=["audi","bmw","hyundai"]
-console.log(cars)  //here full array is printed
+console.log(cars)  //here full array is git
 
 
